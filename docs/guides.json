@@ -1,0 +1,33 @@
+{
+  "sectionTitle" : "Super hero squad",
+  "items" : [
+    {
+      "title": "Two-Factor Authentication (2FA)",
+      "permalink" : "https://docs.urbanairship.com/guides/2fa/",
+      "description" : "Two-factor authentication (2FA) provides added security for logins, requiring a combination of something you know (password) and something you have (mobile device).",
+      "products" : [
+        "All",
+        "Engage",
+        "Insight",
+        "Connect",
+        "Reach"
+      ]
+    },
+    {
+      "title": "Adaptive Links",
+      "permalink" : "https://docs.urbanairship.com/guides/adaptive-links/",
+      "description" : "Generate a single link that automatically detects the device OS and installs the appropriate pass.",
+      "products" : [
+        "Reach"
+      ]
+    },
+    {
+      "title": "Customize Landing Pages for Android",
+      "permalink" : "https://docs.urbanairship.com/guides/android-landing-page/",
+      "description" : "Customize your Android app's Landing Pages.",
+      "products" : [
+        "Engage"
+      ]
+    }
+  ]
+}

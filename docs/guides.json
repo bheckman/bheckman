@@ -6,11 +6,14 @@
       "permalink" : "https://docs.urbanairship.com/guides/2fa/",
       "description" : "Two-factor authentication (2FA) provides added security for logins, requiring a combination of something you know (password) and something you have (mobile device).",
       "products" : [
-        "All",
         "Engage",
         "Insight",
         "Connect",
         "Reach"
+      ],
+      "topics" : [
+        "User Profile",
+        "Orchestration & Automation"
       ]
     },
     {
@@ -19,6 +22,10 @@
       "description" : "Generate a single link that automatically detects the device OS and installs the appropriate pass.",
       "products" : [
         "Reach"
+      ],
+      "topics" : [
+        "User Profile",
+        "Orchestration & Automation"
       ]
     },
     {

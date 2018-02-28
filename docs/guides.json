@@ -32,6 +32,9 @@
       "description" : "Customize your Android app's Landing Pages.",
       "products" : [
         "Engage"
+      ],
+      "topics" : [
+        "Notification Services"
       ]
     }
   ]

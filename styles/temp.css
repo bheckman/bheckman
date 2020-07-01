@@ -18,12 +18,8 @@ section {
 }
 
 .work-item {
+  border: 4px solid #FFF;
   box-sizing: border-box;
-  margin-bottom: 8px;
-}
-
-.work-item:nth-of-type(odd) {
-  margin-right: 8px;
 }
 
 .work-item:nth-of-type(even) .mask,
@@ -118,8 +114,14 @@ section.footer {
   }
 }
 
+section.work {
+  padding: 3rem 2rem;
+}
 
 @media (min-width: 700px) {
+  section.work {
+    padding: 5rem;
+  }
   .the-facts .project__metadata {
     border-left: 0;
   }
@@ -130,6 +132,12 @@ section.footer {
 }
 
 @media (min-width: 980px) {
+  section.work {
+    padding: 5rem 10rem;
+  }
+  .work h2.kicker {
+    padding: 0;
+  }
   .feature--50-50 {
     height: auto;
   }
@@ -152,3 +160,8 @@ section.footer {
 
 }
 
+@media (min-width: 1300px) {
+  .work h2.kicker {
+    padding: 0;
+  }
+}
